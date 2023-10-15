@@ -6,6 +6,7 @@ Login Page
 <Body>
 <H1>Login page</H1>
 <Label> Your name </Label>
+<Label> Your password </Label>
 <Input type="Text"></Input>
 Hai , this is the login page
 
