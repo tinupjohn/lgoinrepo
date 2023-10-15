@@ -8,6 +8,7 @@ Login Page
 <Label> Your name </Label>
 <Label> Your password </Label>
 <Input type="Text"></Input>
+<input type="password" placeholder="Pswword">
 Hai , this is the login page
 
 </Body>
